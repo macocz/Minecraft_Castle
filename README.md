@@ -1,4 +1,4 @@
-Turn on the game, use the code and write "castle" in the chat!
+**Turn on the game, use the code and write "castle" in the chat!**
 
 
 ![Castle](https://user-images.githubusercontent.com/58290056/174666654-b57e8fe4-18af-4422-81ed-7028428b929a.jpg)
